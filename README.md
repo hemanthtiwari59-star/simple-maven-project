@@ -12,6 +12,7 @@ Check your installations:
 ```bash
 java -version
 mvn -version
+java --v
 ```
 
 ## Run the application
